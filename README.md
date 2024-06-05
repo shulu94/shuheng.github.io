@@ -1,2 +1,1 @@
-# Shuheng Lu
-ASIC Engineer 
+# A Front Page
